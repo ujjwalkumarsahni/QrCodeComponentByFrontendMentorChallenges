@@ -1,0 +1,2 @@
+# QrCodeComponentByFrontendMentorChallenges
+QR CODE COMPONENT BY FRONTEND MENTOR CHALLLENGES
